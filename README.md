@@ -130,7 +130,7 @@
 ###
 
 <div align="center">
-  <img src="<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ayushjaiswal015" alt="GitHub Streak" /></a>" height="220" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ayushjaiswal015" alt="GitHub Streak" /></a>
 </div>
 
 ###
