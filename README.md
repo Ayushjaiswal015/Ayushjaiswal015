@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sharath Chandra Chinnarigari</h1>
-<h3 align="center">A Computer Science Undergraduate from Thapar University</h3>
+<h1 align="center">Hi 👋, I'm Ayush Jaiswal</h1>
+<h3 align="center">A Computer Science Undergraduate from KIIT University, Bhubaneswar</h3>
 
 <img
   align="right"
