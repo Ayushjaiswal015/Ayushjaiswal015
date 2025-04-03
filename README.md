@@ -9,11 +9,11 @@
 />
 
 - 🌱 I’m currently learning **Devops , Blockchain** - 📫 Contact
-**csharathchandra3@gmail.com** | **cchandra_be22@thapar.edu**
+**jaiswalayush015@gmail.com** | **22053235@kiit.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/csharath-chandra" target="blank"
+  <a href="www.linkedin.com/in/ayush-jaiswal-464316325" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -21,7 +21,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/sharath.345" target="blank"
+  <a href="" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -29,7 +29,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://twitter.com/csharath3" target="blank"
+  <a href="https://x.com/AyushJaisw015" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -37,7 +37,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://codepen.io/sharath4567" target="blank"
+  <a href="" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
