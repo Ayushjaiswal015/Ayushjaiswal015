@@ -17,7 +17,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="csharath-chandra"
+      alt"Ayush Jaiswal"
       height="30"
       width="40"
   /></a>
@@ -130,7 +130,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sharathchandra345&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ayushjaiswal015" alt="GitHub Streak" /></a>" height="220" alt="streak graph"  />
 </div>
 
 ###
